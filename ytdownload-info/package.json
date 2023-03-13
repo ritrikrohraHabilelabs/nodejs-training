@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mime-types": "^2.1.35",
+    "ytdl-core": "^4.11.2"
+  }
+}
